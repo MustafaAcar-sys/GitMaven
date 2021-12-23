@@ -1,6 +1,7 @@
 public class TestingGithub {
     public static void main(String[] args) {
         System.out.println("Learn1");
+        System.out.println("Learn2");
 
     }
 }
